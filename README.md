@@ -16,3 +16,4 @@ This repository contains my Linux learning notes, commands, practice exercises, 
 Learning Progress:
 - Day 1 ✅
 - Day 2 ✅
+- Day 3 ✅
